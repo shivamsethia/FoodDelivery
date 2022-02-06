@@ -35,7 +35,7 @@ html{
 }
 #navbar::before{
     content: "";
-    background-color: red;
+    background-color: black;
     position: absolute;
     height: 100%;
     width: 100%;
